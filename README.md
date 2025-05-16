@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Ryan Pereira
 #### Creative Technologist (Marketer/Builder/Storyteller)
 
-I'm a brand strategist turned indie tech builder, exploring the edge of creativity, code, and AI. I help ideas take shape — from scratch to story, product to prototype.
+I'm a brand strategist turned indie tech builder, exploring the edge of creativity, code, and AI. I help ideas take shape - from scratch to story, product to prototype.
 Whether it’s a journaling tool, a comic-book pipeline, or a productivity app, I’m building thoughtful tools for curious minds.
 
 I work like I learn: in public, on purpose, and one meaningful project at a time.
